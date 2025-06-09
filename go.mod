@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.36.3
 	github.com/aws/aws-sdk-go-v2/config v1.29.13
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.67
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.80.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.80.1
 	github.com/conduitio/conduit-connector-sdk v0.14.0
 	github.com/golangci/golangci-lint v1.64.8
 	github.com/google/uuid v1.6.0
